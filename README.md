@@ -61,6 +61,7 @@ Borrow out = A'Bin + A'B + BBin
 
 5.Implement the design on the target device and program it.
 
+
 **Full Subtractor:** 
 
 1.Follow the same steps as for the full adder.
