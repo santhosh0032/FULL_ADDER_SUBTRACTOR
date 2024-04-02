@@ -40,7 +40,6 @@ Borrow out = A'Bin + A'B + BBin
 
 **Procedure**
 
-Write the detailed procedure here
 
 **Program:**
 ```
